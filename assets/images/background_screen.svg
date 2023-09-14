@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <clipPath id="clip-DTM">
+      <rect width="390" height="844"/>
+    </clipPath>
+  </defs>
+  <g id="DTM" clip-path="url(#clip-DTM)">
+    <rect width="390" height="844" fill="#f5fdf3"/>
+    <line id="Line_15" data-name="Line 15" y1="271" x2="247" transform="translate(-66 -53.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_16" data-name="Line 16" y1="243" x2="222" transform="translate(-25 8.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_17" data-name="Line 17" x2="177" y2="228" transform="translate(-29 4.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_18" data-name="Line 18" x2="171" y2="221" transform="translate(0 -32.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_19" data-name="Line 19" y1="271" x2="247" transform="translate(148 553.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_20" data-name="Line 20" y1="243" x2="222" transform="translate(189 615.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_21" data-name="Line 21" x2="177" y2="228" transform="translate(185 611.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_22" data-name="Line 22" x2="171" y2="221" transform="translate(214 574.5)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>
