@@ -1,16 +1,27 @@
 # task_manager_using_getx
+Note:
+It is an updated Version of previous Project <a href="https://github.com/abdurrahmanador/dynamic_task_manager">. 
+In this project I tried to implement GETX . Though I couldnt implement GETX at whole project but almost 90% I converted . And Also I didn't focus On UI rather I focused backend API implementation and State Management , this app is for Learning Purpose .
+1. Dart
+2. Flutter
+3. Android Studio
+4. Rest API
+5. CRUD
+6. GETX
+MVVM Pattern(Mostly)
+---Abdur Rahman
+   ------------
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/111.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/222.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/333.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/444.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/555.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/666.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/777.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/888.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/999.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/101010.jpg" height=300 wdith=180>
+<img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/111111.jpg" height=300 wdith=180>
 
-A new Flutter project.
+<br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
