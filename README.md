@@ -8,7 +8,7 @@ In this project I tried to implement GETX . Though I couldnt implement GETX at w
 4. Rest API
 5. CRUD
 6. GETX<br>
-MVVM Pattern(Mostly)
+MVVM Pattern(Mostly)<br>
 ---Abdur Rahman
 
    ------------
