@@ -7,7 +7,7 @@ In this project I tried to implement GETX . Though I couldnt implement GETX at w
 3. Android Studio
 4. Rest API
 5. CRUD
-6. GETX
+6. GETX<br>
 MVVM Pattern(Mostly)
 ---Abdur Rahman
 
