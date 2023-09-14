@@ -10,7 +10,9 @@ In this project I tried to implement GETX . Though I couldnt implement GETX at w
 6. GETX
 MVVM Pattern(Mostly)
 ---Abdur Rahman
+
    ------------
+   
 <img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/111.jpg" height=300 wdith=180>
 <img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/222.jpg" height=300 wdith=180>
 <img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/333.jpg" height=300 wdith=180>
