@@ -1,5 +1,5 @@
 # Task Management App (GETX)
-This is an updated version of the previous <a href="https://github.com/abdurrahmanador/dynamic_task_manager"><b><i>Dynamic Task Management App</i></b></a>Project . In this update, I made an effort to implement GETX. Although I couldn't apply GETX to the entire project, I successfully converted approximately 90%. Additionally, I didn't prioritize the UI; instead, I focused on backend API implementation and state management. Please note that this app is intended for learning purposes.
+This is an updated version of the previous <a href="https://github.com/abdurrahmanador/dynamic_task_manager"><b><i>Dynamic Task Management App</i></b></a> Project . In this update, I made an effort to implement GETX. Although I couldn't apply GETX to the entire project, I successfully converted approximately 90%. Additionally, I didn't prioritize the UI; instead, I focused on backend API implementation and state management. Please note that this app is intended for learning purposes.
 
 Technologies used:
 
