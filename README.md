@@ -1,6 +1,6 @@
 # task_manager_using_getx
 Note:
-It is an updated Version of previous Project <a href="https://github.com/abdurrahmanador/dynamic_task_manager">. 
+It is an updated Version of previous Project <a href="https://github.com/abdurrahmanador/dynamic_task_manager"><b><i>Dynamic Task Management App</i></b></a>. 
 In this project I tried to implement GETX . Though I couldnt implement GETX at whole project but almost 90% I converted . And Also I didn't focus On UI rather I focused backend API implementation and State Management , this app is for Learning Purpose .
 1. Dart
 2. Flutter
