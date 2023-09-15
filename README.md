@@ -3,14 +3,13 @@ This is an updated version of the previous <a href="https://github.com/abdurrahm
 
 Technologies used:
 
-Dart
-Flutter
-Android Studio
-Rest API
-CRUD
-GETX
-MVVM Pattern (mostly)
-Best regards,
+Dart<br>
+Flutter<br>
+Android Studio<br>
+Rest API<br>
+CRUD<br>
+GETX<br>
+Best regards,<br>
 Abdur Rahman"
 
 These changes make your note more concise and grammatically correct while maintaining its clarity.
