@@ -10,10 +10,7 @@ Rest API<br>
 CRUD<br>
 GETX<br>
 Best regards,<br>
-Abdur Rahman"
-
-These changes make your note more concise and grammatically correct while maintaining its clarity.
-
+Abdur Rahman
    ------------
    
 <img src="https://github.com/abdurrahmanador/task_manager_using_getx/blob/master/111.jpg" height=300 wdith=180>
